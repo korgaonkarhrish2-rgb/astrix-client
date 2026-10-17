@@ -1,0 +1,16 @@
+node_modules/
+.pnpm-store/
+dist/
+dist-electron/
+
+.env
+.env.*
+.npmrc
+credentials/
+*.pem
+*.pfx
+*.key
+*.log
+
+.DS_Store
+Thumbs.db
